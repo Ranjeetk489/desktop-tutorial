@@ -1,0 +1,68 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@100&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Urbanist:wght@300&display=swap');
+*{
+    margin : 0px;
+    padding : 0px;
+}
+h1 {
+    font: bold 20px Tahoma;
+}
+h2{
+    font: bold 13px Tahoma;
+}
+body{ 
+  text-align: left;
+  font-family: 'Urbanist', sans-serif;  
+}
+.container .nav{
+    padding: 0.5rem 0rem;
+    border: none;
+    text-align: left;
+}
+.container{
+    border: 1px solid black;
+    width: 1000px;
+    margin: 7px auto;
+}
+#top_Header{
+    background-color: skyblue;
+    border: 1px rgb(37, 17, 2);
+    padding: 10px;
+    
+}
+nav{
+    color: #85a398;
+    background-color: 
+    #FBCFE8;
+    padding: 7px;
+    font :  bold 14px Tahoma;
+}
+.primary_link{
+color: #1D4ED8;
+border-radius: 0.3rem;
+border-color: #34D399 ;
+padding: .1rem 0.4rem;
+background-color:#3B82F6;
+font-family: 'Montserrat', sans-serif;
+font-weight: bold;
+}
+.footer_list{
+    display: inline;
+    padding: 0rem 0.6rem;
+}
+.aside{
+    text-align: center;
+    font-size: 1.1rem;
+    font-weight: bold;
+    padding: 0.6rem 1.1rem;
+}
+#stuff{
+    text-align: center;
+    font-display: inherit;
+    color: #F472B6;
+}
+.navi{
+    display: inline;
+    text-align: left;
+}
